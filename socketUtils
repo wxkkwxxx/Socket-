@@ -45,11 +45,11 @@ public class SocketClient {
     private int PORT;
 
     //以下为正式
-//    private String IP = "socket.lzxsdyy.com";
+//    private String IP = "xxx.xxx.com";
 //    private int PORT = 8080;
 
-    //以下为测试socket.dev.lzxsdyy.com:6060 socket长连接
-//    private String IP = "socket.dev.lzxsdyy.com";
+    //以下为测试xxx.dev.xxx.com:6060 socket长连接
+//    private String IP = "xxx.dev.xxx.com";
 //    private int PORT = 8080;
 
     private int state = STATE_CONNECT_START;
